@@ -1,0 +1,24 @@
+body{
+    /* background-color: #517cc7; */
+    max-width: 100%;
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    padding: 0;
+}
+.user-image{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.wrapper{
+    margin-top: 60px;
+}
+
+.select-cus{
+	width:30px;
+	right: 0px;
+}
+

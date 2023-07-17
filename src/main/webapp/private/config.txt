@@ -1,0 +1,2 @@
+Image Folder Location : "D:\\Education\\M.Sc. CS\\SEMESTER - 1\\P5_Practical\\Web Technology - SG\\Spacebook\\webapp\\img\\"
+	used : addpost.jsp , signup.jsp
