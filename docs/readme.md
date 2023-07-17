@@ -87,30 +87,44 @@ CREATE TABLE `follows` ( `u1_id` INT(10), `u2_id` INT(10), `f_sts` TINYINT(1), F
 ## Output
 **login page**
 ![login](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/1.png?raw=true)
+
 **signup**
 ![signup](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/2.png?raw=true)
+
 **dashboard**
 ![dashboard](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/3.png?raw=true)
+
 **a single post looks like : user can like , comment & report post**
 ![single post](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/4.png?raw=true)
+
 **create post with image (max 100kb)**
 ![create a post](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/5.png?raw=true)
+
 **user can edit comment and delete comment**
 ![edit and delete comment](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/5.png?raw=true)
+
 **friends zone**
 ![friends zone](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/7.png?raw=true)
+
 **nav menu**
+
 ![nav menu](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/8.png?raw=true)
+
 **own profile dashboard**
 ![own profile dashboard](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/9.png?raw=true)
+
 **single post on profile dsashboard, user can edit or delete own post**
 ![single post on profile dsashboard](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/10.png?raw=true)
+
 **edit profile**
 ![edit profile](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/11.png?raw=true)
+
 **terms and condition**
 ![terms and condition](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/12.png?raw=true)
+
 **deactivate own profile**
 ![deactivate own profile](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/13.png?raw=true)
+
 **reactivate accout option**
 ![reactivate accout option](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/14.png?raw=true)
 
@@ -121,7 +135,7 @@ CREATE TABLE `follows` ( `u1_id` INT(10), `u2_id` INT(10), `f_sts` TINYINT(1), F
 ![Admin Dashboard](https://github.com/rdbhandari/Spacebook/blob/master/docs/outputs/16.png?raw=true)
 
 **List Of Users**
-[List Of Users](https://github.com/rdbhandari/Spacebook/blob/master/docs/outputs/17.png?raw=true)
+![List Of Users](https://github.com/rdbhandari/Spacebook/blob/master/docs/outputs/17.png?raw=true)
 
 **Quick View of A User**
 ![Quick View of A User](https://github.com/rdbhandari/Spacebook/blob/master/docs/outputs/18.png?raw=true)
