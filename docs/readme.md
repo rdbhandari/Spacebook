@@ -98,9 +98,11 @@ CREATE TABLE `follows` ( `u1_id` INT(10), `u2_id` INT(10), `f_sts` TINYINT(1), F
 ![single post](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/4.png?raw=true)
 
 **create post with image (max 100kb)**
+
 ![create a post](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/5.png?raw=true)
 
 **user can edit comment and delete comment**
+
 ![edit and delete comment](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/5.png?raw=true)
 
 **friends zone**
@@ -113,7 +115,7 @@ CREATE TABLE `follows` ( `u1_id` INT(10), `u2_id` INT(10), `f_sts` TINYINT(1), F
 **own profile dashboard**
 ![own profile dashboard](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/9.png?raw=true)
 
-**single post on profile dsashboard, user can edit or delete own post**
+**single post on profile dashboard, user can edit or delete own post**
 ![single post on profile dsashboard](https://github.com/rdbhandari/spacebook/blob/master/docs/outputs/10.png?raw=true)
 
 **edit profile**
